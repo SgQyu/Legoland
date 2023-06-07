@@ -1,7 +1,9 @@
 # Legoland Korea Resort Renewal Project 
 
 ### Legoland Korea Resort Renewal 사이트
-<a href="https://weteambestlegoland.netlify.app/" title="NAVER로 이동!">DEMO</a>
+<a href="https://weteambestlegoland.netlify.app/" title="Demo 사이트" target="_blank">DEMO</a>
+<br>
+<a href="https://1drv.ms/p/s!Au0jrTlXxKwMozsIo87ndrnWkTVf?e=Xd0Mtg" title="기획서" target="_blank">기획서</a>
 
 ### 프로젝트 선정 이유
 - 기존의 자사 웹사이트와 타사의 웹사이트와 비교 분석한 결과 
